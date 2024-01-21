@@ -1,7 +1,7 @@
 
 # Reproduction of AS-Script `inexplicable type discrepancy` bug
 
-_Original issue can be found here: [https://github.com/aws/aws-appsync-community/issues](https://github.com/aws/aws-appsync-community/issues)_
+_Original issue can be found here: [https://github.com/aws/aws-appsync-community/issues/346](https://github.com/aws/aws-appsync-community/issues/346)_
 
 ## Reproduction steps
 
