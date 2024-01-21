@@ -1,0 +1,11 @@
+{
+    "name": "appsync-inexplicable-type-discrepancy",
+    "scripts": {},
+    "dependencies": {
+        "@aws-sdk/client-dynamodb": "^3.496.0",
+        "@aws-sdk/lib-dynamodb": "^3.496.0"
+    },
+    "devDependencies": {
+        "@aws-appsync/utils": "^1.6.0"
+    }
+}
